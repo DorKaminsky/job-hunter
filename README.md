@@ -8,6 +8,12 @@
 
 ---
 
+## Dashboard
+
+![Job Hunter Dashboard](docs/screenshot.png)
+
+---
+
 ## How It Works
 
 ```
