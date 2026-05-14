@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Environment
+.env
+
+# Database
+jobs.db
+
+# Generated PDFs
+pdfs/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Spec / internal docs
+specs/
+checklists/
+SYSTEM.md
